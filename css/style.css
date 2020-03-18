@@ -1,0 +1,12 @@
+*{font-family: 'Advent Pro', sans-serif;}
+
+.custom-label{color: #909090;}
+.custom-field{border-color: #d9d8d8; border-width: 2px; border-top: 0px; border-left: 0px; border-right: 0px; color: #333; font-size: 22px;}
+
+@media (min-width: 768px) {
+	body{background-image: url("../imgs/bg-desktop.png") !important; background-size: cover; background-repeat: no-repeat; background-attachment: fixed;}
+	.container-form{height: auto; background: #FFF; padding: 2vw; margin-top: 20vh;}
+	.center-txt-logo{text-align: center !important; font-size: 30px;}
+	.container-content{margin-top: 15vh;}
+	.txt-desktop{font-size: 20px;}
+}
